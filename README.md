@@ -1,6 +1,6 @@
 LICENSE: The code located here is provided as-is, with no warranty, etc. (It's under GPL v2.) 
 
-REQUIREMENTS: Python (v2.7) with the NumPy (v1.10.4) and SciPy (v0.17.1) libraries, and a C++ compiler that supports the C++11 standard (e.g., GNU's g++). 
+REQUIREMENTS: Python (v3.12) with the NumPy (v2.3.4) and SciPy (v1.17.1) libraries, and a C++ compiler that supports the C++11 standard (e.g., GNU's g++). 
 
 INSTALLATION: (1) Compile the "main.cpp" source file in the "trajectory_pvalue_cpp_code" directory, name the program "annotate_pvalues", and move it to the base directory. 
 
